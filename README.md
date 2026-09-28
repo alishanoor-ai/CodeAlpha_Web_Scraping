@@ -37,7 +37,7 @@ The collected book data was cleaned and prepared for analysis before saving it a
 
 The scraped book data was visualized using a **Books Chart** to make the collected information easier to understand.
 
-![Books Chart](Books%20Chart.png)
+![Books Chart](books%20chart.png)
 
 ## 🎯 Learning Outcomes
 
